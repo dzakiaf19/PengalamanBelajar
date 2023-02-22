@@ -1,10 +1,19 @@
-# PengalamanBelajar
+Repository Ini Berisi Pengalaman Belajar di Dicoding
 
-Tahun 2023
-Belajar Dasar Git dan GitHub. (Progres 41%)
 
-* Belajar tentang apa itu Git dan bagaimana cara menggunakannya.
+**20 Februari 2023**  
 
-* Praktik 
+Belajar kelas Git dan GitHub. (Progres 15%)
 
-* Praktik mengedit
+  * Belajar tentang apa itu Git dan GitHub serta cara menggunakannya.
+
+
+**23 Februari 2023**  
+
+Belajar kelas Git dan GitHub. (Progres 41%)
+
+  * Praktik menambah repository baru
+
+  * Praktik mengedit readme.md
+
+  * Praktik merapikan readme.md
